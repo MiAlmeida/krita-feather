@@ -9,7 +9,6 @@ https://feathericons.com
 
 I've added a few of my own (SVG files in **extra-svg** folder):
 
-![Building](./extra-svg/building.svg)
 ![Desktop](./extra-svg/desktop.svg)
 ![Laptop](./extra-svg/laptop.svg)
 ![Trophy](./extra-svg/trophy.svg)
