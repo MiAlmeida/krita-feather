@@ -1,6 +1,6 @@
-### Krita Feather Icons
+## Krita Feather Icons
 
-## What is Feather?
+### What is Feather?
 
 Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.
 
@@ -10,7 +10,7 @@ https://feathericons.com
 I've only tested this in Krita 4.3
 If anyone wants to add their experience with other versions please let me know.
 
-### Install feather library in Krita 4.3
+### Install Feather library in Krita 4.3
 
 + Download the latest version from master
 + In Krita, in the main menu open **Settings** followed by **Manage Resources**
