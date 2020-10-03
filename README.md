@@ -7,6 +7,13 @@ Feather is a collection of simply beautiful open source icons. Each icon is desi
 Browse the collection here:
 https://feathericons.com
 
+I've added a few of my own (SVG files in **extra-svg** folder):
+
+![Building](./extra-svg/building.svg)
+![Desktop](./extra-svg/desktop.svg)
+![Laptop](./extra-svg/laptop.svg)
+![Trophy](./extra-svg/trophy.svg)
+
 I've only tested this in Krita 4.3
 If anyone wants to add their experience with other versions please let me know.
 
