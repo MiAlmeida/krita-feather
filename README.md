@@ -12,7 +12,7 @@ If anyone wants to add their experience with other versions please let me know.
 
 ### Install Feather library in Krita 4.3
 
-+ Download the latest version from master
++ Download the latest version **Feather-Icons.svg** from master
 + In Krita, in the main menu open **Settings** followed by **Manage Resources**
 + In the manage resource window click on **Open Resource Folder**
 + Open the **Symbols** folder
