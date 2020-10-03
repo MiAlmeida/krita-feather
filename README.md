@@ -20,3 +20,5 @@ If anyone wants to add their experience with other versions please let me know.
 + Restart Krita
 
 You can now access the library from the **Vector Libraries Docker**.
+
+If you want to customize the icon on your Krita Canvas (change vector points, the stroke or fill color,...) don't forget to right-click the icon on your canvas and select **Ungroup**.
