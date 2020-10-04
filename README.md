@@ -12,6 +12,7 @@ I've added a few of my own (SVG files in **extra-svg** folder):
 ![Desktop](./extra-svg/desktop.svg)
 ![Laptop](./extra-svg/laptop.svg)
 ![Trophy](./extra-svg/trophy.svg)
+![Building](./extra-svg/building.svg)
 
 I've only tested this in Krita 4.3
 If anyone wants to add their experience with other versions please let me know.
